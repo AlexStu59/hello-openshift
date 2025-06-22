@@ -1,4 +1,3 @@
-cat <<EOF > package.json
 {
   "name": "hello-openshift",
   "version": "1.0.0",
@@ -7,4 +6,3 @@ cat <<EOF > package.json
     "start": "node server.js"
   }
 }
-EOF
